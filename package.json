@@ -1,0 +1,19 @@
+{
+  "name": "component-jade-fixed",
+  "version": "0.0.1",
+  "description": "Temporary (component < 1.0.0) component plugin for jade .templates/.scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nami-Doc/component-jade-fixed.git"
+  },
+  "author": "Nami-Doc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nami-Doc/component-jade-fixed/issues"
+  },
+  "homepage": "https://github.com/Nami-Doc/component-jade-fixed"
+}
