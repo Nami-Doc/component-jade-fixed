@@ -17,7 +17,7 @@ component install component-jade-fixed
 
 `component.json` :
 
-```json
+```
 {
   // - Require a Jade function
   // usage : div.innerHTML = require('./template.jade')({my: 'arguments'})
