@@ -20,7 +20,7 @@ component install component-jade-fixed
 ```
 {
   // - Require a Jade function
-  // usage : div.innerHTML = require('./template.jade')({my: 'arguments'})
+  // usage : div.innerHTML = require('./template.html')({my: 'arguments'})
   "scripts": ["template.jade"],
 
   // - Require a HTML string
